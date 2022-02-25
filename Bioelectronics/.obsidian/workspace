@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "b2d31dda5f833dd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f5d40f0282ae1fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Eye Clinic Works.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c09d6aee9d553d4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3. Daily Notes/23rd Feb 22.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83b01facfc15521c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1908c7169f02e089",
+        "type": "tabs",
+        "dimension": 56.85328185328186,
+        "children": [
+          {
+            "id": "279eb688719b19d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a51b00493af5ff00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#Perfu",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4c8de7357020adaf",
+        "type": "tabs",
+        "dimension": 43.14671814671815,
+        "children": [
+          {
+            "id": "19f3d055d1e6add7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8ca1838d280768e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289
+  },
+  "right": {
+    "id": "fe07fc321f7edaf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a08b581e4949f7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b42d69fc04a3421e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Daily Notes/23rd Feb 22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6382e36b3315e708",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5,
+    "collapsed": true
+  },
+  "active": "c09d6aee9d553d4f",
+  "lastOpenFiles": [
+    "3. Daily Notes/23rd Feb 22.md",
+    "3. Daily Notes/22nd Feb 22.md",
+    "Eye Clinic Works.md",
+    "3. Daily Notes/15th Feb 22.md",
+    "G42 XDS Win 10 Upgrade.md",
+    "Raspberry Pi Projects.md",
+    "XDS Configurations.md",
+    "Suggestions.md",
+    "Electrical Safety Course.md",
+    "Contacts.md"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ac84915b5399bdd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e39b091d2ef8f17b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1.1 Anaesthetics Canula Monitoring/70 IP Search.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3ce064b7704de4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c3a7773cbd7a65c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d346ce905526807",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "706856c341ed9085",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1079672f0f6d6f0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "49fa99e61a012748",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b244e911967baae8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.1 Anaesthetics Canula Monitoring/70 IP Search.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e39b091d2ef8f17b",
+  "lastOpenFiles": [
+    "1.1 Anaesthetics Canula Monitoring/70 IP Search.md",
+    "CA2779296C.pdf.md"
+  ]
+}
